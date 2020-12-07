@@ -1,9 +1,7 @@
 Debout !
 Maintenant !
 Tout de suite !
-<<<<<<< HEAD
 Je suis pas d'accord ! 
 Je suis bien 
->>>>>>> 164fb1bcd9a0ab1c131d773957e8907b0104ef3d
 Non j'ai envie de dormir
 D'accord arrête
